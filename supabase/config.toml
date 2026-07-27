@@ -1,0 +1,9 @@
+{
+  "name": "restaurant-app",
+  "project_id": "your-project-ref",
+  "functions": {
+    "create-payment-intent": {
+      "verify_jwt": false
+    }
+  }
+}
