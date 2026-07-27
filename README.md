@@ -1,6 +1,6 @@
 # Sabor — Restaurant Ordering (Flutter + Supabase)
 
-Modern light Mediterranean ordering app for **delivery** and **pickup**, with cart, distance-based ETA, and **Stripe payments in EUR for Spain**.
+Modern light Mediterranean ordering app for **delivery** and **pickup**, with cart, distance-based ETA and Stripe payments 
 
 ## Features
 
