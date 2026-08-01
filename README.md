@@ -2,6 +2,16 @@
 
 Modern light Mediterranean ordering app for **delivery** and **pickup**, with cart, distance-based ETA, and **Stripe payments in EUR for Spain**.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Home — choose Delivery or Pickup" width="260" />
+  &nbsp;
+  <img src="screenshots/address.png" alt="Delivery address" width="260" />
+  &nbsp;
+  <img src="screenshots/menu.png" alt="Menu with categories and dishes" width="260" />
+</p>
+
 ## Features
 
 - Order type selection on home (Delivery / Pickup)
